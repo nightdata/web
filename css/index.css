@@ -4,8 +4,43 @@
 }
 
 body {
-    background: url("../images/image1.jpg");
-    color: #FFFFFF;
+    color: #5f5f5f;
     font-family: arial;
-    font-size: 22px;
+    font-size: 12px;
+    background: #3c7dab;
+    /* background: #1f1f1f; */
+}
+
+.content {
+    padding: 25px;
+    /* margin: 0 auto; */
+    /* max-width: 620px; */
+    margin: 0px 10%;
+}
+
+.content2 {
+    /* border: 1px solid #E0E0E0; */
+    background: #ffffff;
+    /* padding: 25px; */
+    /* border-radius: 5px; */
+    width: 33%;
+    float: left;
+    margin: 5px 0px;
+    border-left: 2px solid #000000;
+}
+
+p {
+    padding: 10px;
+    color: #5f5f5f;
+    /* background: #5f5f5f; */
+}
+
+img {
+    border: 1px solid #000000;
+    width: 100%;
+}
+
+h1 {
+    padding: 15px 0px;
+    color: #FFFFFF;
 }
